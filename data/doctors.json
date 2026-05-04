@@ -1,0 +1,52 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Ben Ali",
+      "specialty": "Médecin Généraliste",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Dr. Trabelsi",
+      "specialty": "Cardiologue",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Dr. Mejri",
+      "specialty": "Neurologue",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Dr. Chaabane",
+      "specialty": "Gastro-entérologue",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Dr. Hamdi",
+      "specialty": "Dermatologue",
+      "available": false
+    },
+    {
+      "id": 6,
+      "name": "Dr. Sfar",
+      "specialty": "Rhumatologue",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Dr. Agrebi",
+      "specialty": "Ophtalmologue",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Dr. Jouini",
+      "specialty": "Psychiatre",
+      "available": true
+    }
+  ]
+}

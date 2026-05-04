@@ -1,0 +1,20 @@
+# API Keys - NEVER push this
+.env
+
+# ChromaDB local database
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# HuggingFace cache
+.cache/
+
+# Virtual environment
+venv/
+env/
+
+# Test files
+test_*.py

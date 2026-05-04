@@ -1,0 +1,64 @@
+{
+  "slots": [
+    {
+      "doctor_id": 1,
+      "date": "2025-06-10",
+      "time": "09:00",
+      "booked": true
+    },
+    {
+      "doctor_id": 1,
+      "date": "2025-06-10",
+      "time": "10:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 1,
+      "date": "2025-06-10",
+      "time": "11:00",
+      "booked": true
+    },
+    {
+      "doctor_id": 2,
+      "date": "2025-06-10",
+      "time": "09:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 2,
+      "date": "2025-06-10",
+      "time": "14:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 3,
+      "date": "2025-06-10",
+      "time": "10:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 4,
+      "date": "2025-06-10",
+      "time": "15:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 6,
+      "date": "2025-06-10",
+      "time": "09:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 7,
+      "date": "2025-06-10",
+      "time": "11:00",
+      "booked": false
+    },
+    {
+      "doctor_id": 8,
+      "date": "2025-06-10",
+      "time": "16:00",
+      "booked": false
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+=== FICHE: Fièvre ===
+La fièvre est une température corporelle supérieure à 38°C.
+Causes fréquentes: infection virale, infection bactérienne, inflammation.
+Consulter un médecin généraliste si la fièvre dépasse 39.5°C ou dure plus de 3 jours.
+Spécialité recommandée: Médecin Généraliste.
+
+=== FICHE: Douleur thoracique ===
+La douleur thoracique peut indiquer des problèmes cardiaques ou pulmonaires.
+Symptômes d'alerte: douleur irradiant vers le bras gauche, essoufflement, sueurs.
+Consulter en urgence un cardiologue ou aller aux urgences immédiatement.
+Spécialité recommandée: Cardiologue.
+
+=== FICHE: Maux de tête ===
+Les céphalées peuvent être dues au stress, à la déshydratation ou à des migraines.
+Consulter si les maux de tête sont soudains, très intenses ou accompagnés de fièvre.
+Spécialité recommandée: Médecin Généraliste ou Neurologue.
+
+=== FICHE: Douleur abdominale ===
+Les douleurs abdominales peuvent avoir de nombreuses causes: gastrite, appendicite, calculs.
+Consulter un médecin si la douleur est intense, localisée ou accompagnée de vomissements.
+Spécialité recommandée: Gastro-entérologue ou Médecin Généraliste.
+
+=== FICHE: Problèmes de peau ===
+Les affections cutanées incluent: eczéma, psoriasis, acné sévère, infections fongiques.
+Consulter si les lésions s'étendent, saignent ou ne guérissent pas après 2 semaines.
+Spécialité recommandée: Dermatologue.
+
+=== FICHE: Douleur articulaire ===
+Les douleurs articulaires peuvent indiquer de l'arthrite, une blessure ou une inflammation.
+Consulter si la douleur limite les mouvements ou est accompagnée de gonflement.
+Spécialité recommandée: Rhumatologue ou Médecin Généraliste.
+
+=== FICHE: Troubles de la vision ===
+Les troubles visuels incluent: vision floue, points noirs, douleur oculaire.
+Consulter en urgence si la perte de vision est soudaine.
+Spécialité recommandée: Ophtalmologue.
+
+=== FICHE: Santé mentale ===
+Le stress chronique, l'anxiété et la dépression nécessitent une prise en charge professionnelle.
+Consulter si les symptômes durent plus de 2 semaines et affectent la vie quotidienne.
+Spécialité recommandée: Psychiatre ou Psychologue.
