@@ -154,21 +154,7 @@ Triggered when: user confirms they want to book an appointment.
 
 ---
 
-## 📊 Evaluation Grid (Agent IA /20)
 
-| Criterion | Points | Status |
-|---|---|---|
-| Technical Implementation | 4 | ✅ |
-| Architecture | 4 | ✅ |
-| Response Quality | 3.5 | ✅ |
-| Critical Analysis | 3.5 | ✅ |
-| Gradio Interface | 2 | ✅ |
-| Documentation | 2 | ✅ |
-| Presentation | 0.5 | ✅ |
-| Innovation | 0.5 | ✅ |
-| **Total** | **20** | |
-
----
 
 ## ⚠️ Limitations & Future Improvements
 
@@ -178,14 +164,3 @@ Triggered when: user confirms they want to book an appointment.
 - **Authentication** — no patient login system; could add session management
 - **Real booking** — appointment_tool simulates booking; could integrate with Google Calendar API
 
----
-
-## 👥 Team
-
-> Groupe de 3-4 étudiants — chaque membre est capable d'expliquer chaque partie du code.
-
----
-
-## 📄 License
-
-This project was developed as part of a university course on Generative AI Systems.
